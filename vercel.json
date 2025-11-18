@@ -1,0 +1,7 @@
+{
+  "builds": [
+    { "src": "vite.config.ts", "use": "@vercel/static-build", "config": {} }
+  ],
+  "framework": "vite",
+  "outputDirectory": "build"
+}
